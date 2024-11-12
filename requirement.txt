@@ -10,3 +10,4 @@ llama-index
 openai
 pypdf
 python-dotenv
+langchain-openai
